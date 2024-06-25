@@ -1,6 +1,6 @@
 # 🐾 Cat-Dog Classification using CNN 🐾
 
-Welcome to the Cat-Dog Classification project! This repository contains a convolutional neural network (CNN) model designed to distinguish between images of cats and dogs with high accuracy.
+Welcome to the Cat-Dog Classification project! This repository contains a convolutional neural network (CNN) model trained on 20,172,545 trainable parameters designed to distinguish between images of cats and dogs.
 
 ## Overview
 
@@ -8,7 +8,7 @@ In this project, we have developed a deep learning model using CNN architecture 
 
 ## Features
 
-- *CNN Architecture*: Utilizes a Convolutional Neural Network for image classification.
+- *CNN Architecture*: Utilizes a Convolutional Neural Network for image classification, This reduces complexicty and training time.
 - *High Accuracy*: Achieves impressive accuracy in distinguishing between cats and dogs.
 - *Easy to Use*: Simple scripts to train the model and make predictions.
 
