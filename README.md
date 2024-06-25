@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed:
 
 - Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/cat-dog-classification.git
+git clone https://github.com/AyushmanTomar/Cat-Dog-Classifier.git
 ```
 - Run all the cells of cat-dog classification.ipynb
 - You can load your custom image in img_cat/img_dog variable to test the model with random images.
